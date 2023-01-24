@@ -1,6 +1,0 @@
-hello my name is aryan
-this is 1.
-hewdeh
-hfefhe
-git added
-error.log
